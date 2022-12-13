@@ -17,30 +17,24 @@
             </tr>
             <tr>
                 <td align="center">1</td>
-                <td><a href="">Praticar para aperfeiçoar</a></td>
-                <td><a href="">Código</a></td>
-                <td align="center">✅</td>
-            </tr>
-            <tr>
-                <td align="center">2</td>
                 <td><a href="">Sistema de notas escolares</a></td>
                 <td><a href="">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
-                <td align="center">3</td>
+                <td align="center">2</td>
                 <td><a href="">Fluxo de caixa familiar</a></td>
                 <td><a href="">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
-                <td align="center">4</td>
+                <td align="center">3</td>
                 <td><a href="">Celsius to Fahrenheit</a></td>
                 <td><a href="">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
-                <td align="center">5</td>
+                <td align="center">4</td>
                 <td><a href="">Buscando e encontrando dados em Array</a></td>
                 <td><a href="">Código</a></td>
                 <td align="center">✅</td>
