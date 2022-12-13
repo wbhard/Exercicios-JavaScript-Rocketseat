@@ -1,6 +1,6 @@
 Esse exercício vai trabalhar a transformação de notas escolares, onde devemos criar um algoritmo para transformar notas númericas em notas de caracteres.
 
-Desafio:
+## Desafio:
 
 Crie um algoritmo que transforme as notas do sistema
 numérico para sistema de notas em caracteres tipo A B C
