@@ -1,6 +1,6 @@
 Esse desafio envolve a criação de dois arrays e um função que calculará o resultado desses valores, dizendo se é positivo ou negativo, e após isso, o valor do saldo.
 
-Desafio:
+## Desafio:
 
 Crie um objeto que possuirá 2 propriedades, ambas do tipo array:
     * receitas: [] 
