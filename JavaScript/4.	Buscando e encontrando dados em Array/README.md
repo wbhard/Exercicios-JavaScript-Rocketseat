@@ -2,7 +2,7 @@ Esse é um desafio onde vamos trabalhar com arrays, começando com coisas básic
 
 ## Desafio:<br>
 
-/* <br>
+<br>
     ∞ Buscando e contando dados em Arrays ∞<br>
     Baseado no Array de Livros por Categoria abaixo, faça os seguintes desafios<br>
         • Contar o número de categorias e o número de livros em cada categoria<br>
